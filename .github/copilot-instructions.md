@@ -22,9 +22,9 @@ This repository serves as the system-of-record for:
 ```
 journey-inspired-platform/
 ├── .github/
-│   └── copilot-instructions.md    # This file
-├── README.md                        # Project overview
-└── docs/                            # (To be created) Detailed documentation
+│   └── copilot-instructions.md  # This file
+├── README.md                    # Project overview
+└── docs/                        # (To be created) Detailed documentation
 ```
 
 ## Getting Started
